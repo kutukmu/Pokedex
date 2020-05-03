@@ -1,0 +1,27 @@
+.Pokedex{
+   display: flex;
+   width:70%;
+   justify-content: center;
+   align-self: center;
+  
+   margin:0 auto;
+   padding:1.3rem;
+   flex-direction: column;
+   text-align: center;
+   
+
+}
+
+
+.dexcontainer{
+    width:100%;
+    display: flex;
+    justify-content: center;
+   align-self: center;
+   flex-wrap: wrap;
+}
+
+
+.total-header{
+    margin: 0;
+}
